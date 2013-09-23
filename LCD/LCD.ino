@@ -1,5 +1,9 @@
-/* This test code is written for LCD srial display  
+/* developer tilak 
+This test code is written for LCD srial display  
 I am using this for just checking the LCD 20x4 NXP display
+
+This code can be cut paseted for the entire code to run when serial print
+command is given it prints data in the LCD(with in bult serial transfer) :)
 cc robotilak.com*/
 
 void setup()

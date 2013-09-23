@@ -2,7 +2,7 @@
 The module use is a EM18 reader module 
 EM 18 RS232 pin to TX of ATMega 2560.
 GND common 
-
+This was used just to read the tag reading :)
 */
 
 
@@ -24,3 +24,5 @@ void loop ()
       Serial.write(val);
     }
 }
+
+

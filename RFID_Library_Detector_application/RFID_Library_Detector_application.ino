@@ -1,6 +1,13 @@
-/* I have managed to make this todetect any RFID tag that comes in the rage of the scanner of 125 kHz  
+/* 
+developed by tilak robotilak.com cc :)
+
+Sepicificall compiled for my RTS project 
+
+I have managed to make this todetect any RFID tag that comes in the rage of the scanner of 125 kHz  
 this was fun though the out put is thourh an LEd one can use a buzzer 
 I will modify this soon :)
+
+Specifi application to detect any unautorized product being taken will trigger an alarm 
 */
 
 int val=0;
